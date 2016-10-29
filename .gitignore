@@ -1,0 +1,5 @@
+# Directories
+temp/
+
+# Files
+.DS_Store
